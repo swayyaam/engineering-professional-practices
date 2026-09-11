@@ -1,0 +1,29 @@
+# Raw lecture material — source decks are not redistributed, only the notes derived from them
+/Module*/
+
+# Documents and slide decks of any kind, anywhere in the tree
+*.doc
+*.docx
+*.dotx
+*.ppt
+*.pptx
+*.pdf
+*.odt
+*.odp
+*.pages
+*.key
+
+# Obsidian vault state (local editor config, not notes)
+.obsidian/
+
+# macOS / editor cruft
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
