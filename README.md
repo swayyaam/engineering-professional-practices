@@ -19,7 +19,7 @@ The notes are distilled from the lecture decks and the Module II lecture notes: 
 | Path | What it is |
 |---|---|
 | [`notes/`](notes/) | The notes, one folder per module — 12 files, ~2,100 lines |
-| [`exams/`](exams/) | The faculty's sample question papers, plus worked question banks for both modules |
+| [`exams/`](exams/) | The faculty's sample question papers, plus worked short- and long-question banks for both modules |
 | [`lesson-plan.md`](lesson-plan.md) | Full syllabus, course outcomes, books, assessment scheme and lecture-by-lecture plan, transcribed from the course handout |
 | [`README.md`](README.md) | This file |
 | [`.gitignore`](.gitignore) | Keeps the raw lecture decks and editor cruft out of the repository |
@@ -65,12 +65,16 @@ The faculty's own papers, transcribed. Each question links to the note that answ
 
 ### Question banks
 
-| Bank | Contents | Covers |
-|---|---|---|
-| [Module I — question bank](exams/module-1-question-bank.md) | 38 one-mark, 12 five-mark — 50 items with model answers | Engineering as a discipline and a profession, attributes and functions of a practicing engineer, the engineer as problem solver, designer and change agent |
-| [Module II — question bank](exams/module-2-question-bank.md) | 73 one-mark, 9 numericals, 22 five-mark — 104 items with model answers | Design for safety, design for reliability, quality management, productivity, quality and productivity tools, CURA |
+Short and long questions are kept in separate files so a revision session can target one or the other.
 
-Answers are written out in full rather than linked, so each bank stands on its own for revision. Within a bank the one-mark questions are numbered `1`–`n`, the numericals `N1`–`N9` and the five-mark questions `Q1`–`Qn`, so any item can be cited unambiguously. Module I covers the whole of its module; Module II covers the confirmed portion only — project management, managerial functions and costing are in [`notes/`](notes/) but not yet in the bank.
+| Module | Short questions | Long questions | Covers |
+|---|---|---|---|
+| **I** | [38 one-mark](exams/module-1-short-questions.md) | [12 five-mark](exams/module-1-long-questions.md) | Engineering as a discipline and a profession, attributes and functions of a practicing engineer, the engineer as problem solver, designer and change agent |
+| **II** | [73 one-mark + 9 numericals](exams/module-2-short-questions.md) | [22 five-mark](exams/module-2-long-questions.md) | Design for safety, design for reliability, quality management, productivity, quality and productivity tools, CURA |
+
+Answers are written out in full rather than linked, so each file stands on its own for revision. Within a module the one-mark questions are numbered `1`–`n`, the numericals `N1`–`N9` and the five-mark questions `Q1`–`Qn`, so any item can be cited unambiguously. The numericals sit with the short questions, since they are quick calculations rather than essay answers.
+
+Module I covers the whole of its module; Module II covers the confirmed portion only — project management, managerial functions and costing are in [`notes/`](notes/) but not yet in the banks.
 
 ---
 
