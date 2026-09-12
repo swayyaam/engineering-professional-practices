@@ -8,122 +8,122 @@ Engineering and Engineer: discipline and profession, attributes and functions, p
 
 ### Engineering as a discipline and a profession
 
-**Define engineering.**
+**1. Define engineering.**
 A professional discipline that combines knowledge from physics, mathematics and material science with innovation, analysis and design to develop technologies and solutions meeting human needs in a safe, efficient and sustainable way.
 
-**What do you understand by engineering as a discipline?**
+**2. What do you understand by engineering as a discipline?**
 A branch of academic study and systematic knowledge that applies scientific and mathematical principles to solve real-world problems, focusing on problem-solving and innovation.
 
-**What is engineering as a profession?**
+**3. What is engineering as a profession?**
 The practical application of engineering knowledge to design, develop, operate and maintain systems, products and processes that serve society, done responsibly, ethically and efficiently.
 
-**Name the six components of engineering as a discipline.**
+**4. Name the six components of engineering as a discipline.**
 Scientific foundation, mathematical modelling, design thinking, technical knowledge, experimentation and analysis, innovation and research.
 
-**Name the six elements of engineering as a profession.**
+**5. Name the six elements of engineering as a profession.**
 Application of knowledge, professional responsibility, ethics and integrity, licence and certification, teamwork and communication, lifelong learning.
 
-**Give any three characteristics of engineering as a discipline.**
+**6. Give any three characteristics of engineering as a discipline.**
 Interdisciplinary nature, a strong foundation in mathematics and science, and emphasis on continual improvement and lifelong learning. (Also involves design, analysis and experimentation.)
 
-**Name any three key branches of engineering.**
+**7. Name any three key branches of engineering.**
 Mechanical, Electrical, Civil. (Also Chemical, Computer.)
 
-**Expand PE and state who needs it.**
+**8. Expand PE and state who needs it.**
 Professional Engineer. In the US, a civil engineer needs a PE licence to approve structural designs for public infrastructure such as bridges or highways.
 
-**What is a Chartered Engineer?**
+**9. What is a Chartered Engineer?**
 An engineer registered with the Institution of Engineers (India), whose certification validates professional competence and allows them to sign technical documents for bodies such as CPWD, Indian Railways and NHAI.
 
-**Name any two professional bodies that regulate engineering.**
+**10. Name any two professional bodies that regulate engineering.**
 IEEE and ASCE. (Also NEC, IEI in India.)
 
-**What is meant by mathematical modelling in engineering?**
+**11. What is meant by mathematical modelling in engineering?**
 Using equations and formulas to model systems, predict outcomes and optimise performance. Mathematics is the language of engineering.
 
-**Give one example of professional responsibility in engineering.**
+**12. Give one example of professional responsibility in engineering.**
 A structural engineer must ensure a building is safe, sustainable and compliant with regulations, since lives depend on it.
 
-**Give one example of ethics and integrity in practice.**
+**13. Give one example of ethics and integrity in practice.**
 An engineer must refuse to certify a faulty design, even under management pressure, if it compromises safety.
 
-**Why is lifelong learning an element of the profession?**
+**14. Why is lifelong learning an element of the profession?**
 Technology and industry needs evolve constantly, so engineers must continuously upgrade skills, tools and methods. Example: an electrical engineer learning AI and IoT for smart grids.
 
-**State the goal of the discipline versus the profession.**
+**15. State the goal of the discipline versus the profession.**
 The discipline aims to advance the frontiers of science and technology. The profession aims to ensure safety, efficiency and service to society.
 
-**State the output of the discipline versus the profession.**
+**16. State the output of the discipline versus the profession.**
 Discipline: scientific theories, experimental results, conceptual designs. Profession: functional products, infrastructure, processes and services.
 
 ### Attributes and functions of a practicing engineer
 
-**Who is a practicing engineer?**
+**17. Who is a practicing engineer?**
 Someone who applies engineering principles to solve real-world problems and is actively involved in the profession, either as a licensed PE or as someone gaining experience under a PE's supervision.
 
-**State the scope of the practicing engineer's role.**
+**18. State the scope of the practicing engineer's role.**
 From concept to reality, transforming ideas into practical solutions.
 
-**Name the six key attributes of a practicing engineer.**
+**19. Name the six key attributes of a practicing engineer.**
 Technical proficiency, ethical integrity, problem-solving skills, communication skills, teamwork and collaboration, adaptability and lifelong learning.
 
-**Name the four additional attributes.**
+**20. Name the four additional attributes.**
 Project management skills, decision-making under constraints, social and environmental responsibility, leadership qualities.
 
-**What is meant by decision-making under constraints?**
+**21. What is meant by decision-making under constraints?**
 Balancing cost, time, quality and safety when no option satisfies all of them fully.
 
-**Name the four core functions of a practicing engineer.**
+**22. Name the four core functions of a practicing engineer.**
 Design and development; analysis and testing; implementation and operation; maintenance and support.
 
-**What does the function 'analysis and testing' cover?**
+**23. What does the function 'analysis and testing' cover?**
 Evaluating performance and ensuring quality.
 
-**What does 'maintenance and support' ensure?**
+**24. What does 'maintenance and support' ensure?**
 Long-term functionality of the system over its life.
 
-**What does technical proficiency mean?**
+**25. What does technical proficiency mean?**
 Mastery of core engineering principles.
 
-**Why is teamwork listed as a key attribute?**
+**26. Why is teamwork listed as a key attribute?**
 Engineers work in multidisciplinary teams with architects, doctors, software developers, government bodies and clients.
 
 ### Engineer as problem solver, designer and change agent
 
-**What is meant by 'problem-solving' in the context of engineering?**
+**27. What is meant by 'problem-solving' in the context of engineering?**
 A systematic process of identifying a problem, studying existing solutions, requirements and constraints, then generating, designing, testing and launching a solution. It follows the Engineering Method.
 
-**Name the six phases of the Engineering Method.**
+**28. Name the six phases of the Engineering Method.**
 Idea, Concept, Planning, Design, Development, Launch.
 
-**What happens in the Concept phase?**
+**29. What happens in the Concept phase?**
 Existing solutions, requirements and constraints are studied.
 
-**What happens in the Development phase?**
+**30. What happens in the Development phase?**
 Prototypes, experiments, validation and verification.
 
-**Name the six steps of the Scientific Method.**
+**31. Name the six steps of the Scientific Method.**
 Ask a question, do background research, construct a hypothesis, test the hypothesis, analyse data and draw a conclusion, communicate.
 
-**State one difference between the Engineering Method and the Scientific Method.**
+**32. State one difference between the Engineering Method and the Scientific Method.**
 The scientific method seeks to explain a phenomenon and ends in knowledge. The engineering method seeks to build a solution under constraints and ends in a working product.
 
-**What is the engineering design process?**
+**33. What is the engineering design process?**
 A series of steps engineers follow to find a solution to a problem: determining objectives and constraints, prototyping, testing and evaluation.
 
-**Who is a change agent?**
+**34. Who is a change agent?**
 Someone who identifies areas for improvement, initiates innovation, implements new solutions, and influences others toward positive transformation.
 
-**Name the six key aspects of the engineer as a change agent.**
+**35. Name the six key aspects of the engineer as a change agent.**
 Technological transformation, solving societal challenges, sustainable development, economic growth, digital innovation, disaster management and recovery.
 
-**Give one example of engineers driving technological transformation.**
+**36. Give one example of engineers driving technological transformation.**
 Electrical engineers helped shift energy generation from fossil fuels to solar and wind power.
 
-**Give one example of engineers solving societal challenges.**
+**37. Give one example of engineers solving societal challenges.**
 Engineers Without Borders designs low-cost water purification systems for rural areas.
 
-**Give one example of engineers in disaster management.**
+**38. Give one example of engineers in disaster management.**
 Structural engineers redesign buildings to be earthquake-resistant.
 
 ---

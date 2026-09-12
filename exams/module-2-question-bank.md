@@ -8,233 +8,233 @@ Covering the confirmed portion only: safety, reliability, quality, productivity,
 
 ### Design for safety
 
-**Define safety in engineering.**
+**1. Define safety in engineering.**
 The practice of designing systems, processes and products so that risk to human life, property and the environment is minimised during both normal operation and failure conditions.
 
-**What is Design for Safety?**
+**2. What is Design for Safety?**
 A planned, disciplined and systematic approach applied across the entire life cycle of a system to prevent or reduce accidents, not a check performed at the end.
 
-**When and where did Design for Safety originate?**
+**3. When and where did Design for Safety originate?**
 In the 1950s, through the US Air Force, after it concluded that trial-and-error aircraft design was not viable. It produced MIL-STD-882.
 
-**What is REX?**
+**4. What is REX?**
 Return of Experience, the practice of learning from deficiencies in previous designs so they do not recur.
 
-**What is fail-safe design?**
+**5. What is fail-safe design?**
 A system that defaults to a safe condition on malfunction. Train brakes engage automatically if the signal is lost.
 
-**What is inherent safety?**
+**6. What is inherent safety?**
 Designing a system to be safe without relying on additional protective layers, for example by using less toxic materials.
 
-**What is a safety factor?**
+**7. What is a safety factor?**
 Designing components for higher load capacity than expected, usually 1.5 to 4 times the estimated load.
 
-**Name the three safety analysis tools.**
+**8. Name the three safety analysis tools.**
 FMEA, FTA (Fault Tree Analysis), HAZOP (Hazard and Operability Study).
 
-**Expand FMEA and FMECA.**
+**9. Expand FMEA and FMECA.**
 Failure Mode and Effects Analysis. Failure Modes, Effects and Criticality Analysis.
 
-**Who developed FMEA and when?**
+**10. Who developed FMEA and when?**
 The US military, in the 1940s.
 
-**Differentiate DFMEA and PFMEA.**
+**11. Differentiate DFMEA and PFMEA.**
 DFMEA is applied during design to prevent failures. PFMEA is applied to process control during manufacturing.
 
-**State the RPN formula.**
+**12. State the RPN formula.**
 RPN = Severity × Occurrence × Detection, each rated 1 to 10.
 
-**What is the simpler alternative to full FMEA?**
+**13. What is the simpler alternative to full FMEA?**
 The risk matrix, where Rating = Probability × Severity, each rated 1 to 3.
 
-**Name any three regulatory bodies in engineering safety.**
+**14. Name any three regulatory bodies in engineering safety.**
 ISO, OSHA, IEC. (Also ASME, BIS, NFPA, CDSCO.)
 
-**Which ISO standard covers occupational health and safety?**
+**15. Which ISO standard covers occupational health and safety?**
 ISO 45001. ISO 31000 covers risk management.
 
-**What does the NSPE code require?**
+**16. What does the NSPE code require?**
 Engineers must hold paramount the safety, health and welfare of the public.
 
-**One-line cause of the Challenger disaster.**
+**17. One-line cause of the Challenger disaster.**
 A faulty O-ring failed in cold weather after management pressed to launch despite engineers' safety concerns.
 
-**One-line cause of the Hyatt Regency collapse.**
+**18. One-line cause of the Hyatt Regency collapse.**
 A design change to the hanger rod connections doubled the load on a connector and was never re-verified. 114 people died.
 
 ### Design for reliability
 
-**Define reliability.**
+**19. Define reliability.**
 The probability that a product or system performs its intended function without failure for a specified period under stated conditions.
 
-**Define MTTF with an example.**
+**20. Define MTTF with an example.**
 Mean Time To Failure, for non-repairable items. If four bulbs last 900, 1000, 1100 and 1000 hours, MTTF = 4000 ÷ 4 = 1000 hours.
 
-**Define MTBF.**
+**21. Define MTBF.**
 Mean Time Between Failures, for repairable items. It predicts the average time between system failures. Example: an ECU with a target of 100,000 hours.
 
-**What do MTTR, λ and R(t) stand for?**
+**22. What do MTTR, λ and R(t) stand for?**
 Mean Time To Repair, failure rate, and the reliability function.
 
-**What is derating?**
+**23. What is derating?**
 Operating a component below its rated stress limit.
 
-**What is robust design?**
+**24. What is robust design?**
 Taguchi's approach of minimising the effect of variations, such as voltage fluctuation, on performance.
 
-**Expand ALT, HALT and ESS.**
+**25. Expand ALT, HALT and ESS.**
 Accelerated Life Testing, Highly Accelerated Life Testing, Environmental Stress Screening.
 
-**Give the key principle of reliability engineering.**
+**26. Give the key principle of reliability engineering.**
 Reliability is designed in, not tested in. The design phase decides it; testing only confirms it.
 
 ### Quality management
 
-**Define quality.**
+**27. Define quality.**
 The ability of a product, process or service to consistently meet or exceed customer requirements and expectations.
 
-**State Crosby's and Juran's definitions.**
+**28. State Crosby's and Juran's definitions.**
 Crosby: conformance to requirements or specifications. Juran: fitness for use.
 
-**Name Garvin's five categories of quality definition.**
+**29. Name Garvin's five categories of quality definition.**
 Transcendent, product-based, manufacturing-based, user-based, value-based.
 
-**List any three of Garvin's eight dimensions.**
+**30. List any three of Garvin's eight dimensions.**
 Performance, Reliability, Serviceability. (Also Features, Conformance, Durability, Aesthetics, Perceived quality.)
 
-**Differentiate QC and QA in one line.**
+**31. Differentiate QC and QA in one line.**
 QC is reactive and finds defects by inspection. QA is proactive and prevents defects by improving the process.
 
-**What is the most widely recognised QMS standard?**
+**32. What is the most widely recognised QMS standard?**
 ISO 9001.
 
-**Expand TQM and name any three principles.**
+**33. Expand TQM and name any three principles.**
 Total Quality Management. Customer focus, continuous improvement (Kaizen), employee involvement.
 
-**When and by whom was Six Sigma initiated?**
+**34. When and by whom was Six Sigma initiated?**
 Motorola, in 1987.
 
-**What defect rate does Six Sigma target?**
+**35. What defect rate does Six Sigma target?**
 3.4 defects per million opportunities.
 
-**Expand DMAIC and DMADV.**
+**36. Expand DMAIC and DMADV.**
 Define, Measure, Analyse, Improve, Control. Define, Measure, Analyse, Design, Verify.
 
-**When do you use DMADV instead of DMAIC?**
+**37. When do you use DMADV instead of DMAIC?**
 DMAIC improves an existing process. DMADV designs a new process or product.
 
 ### Productivity
 
-**Differentiate production and productivity.**
+**38. Differentiate production and productivity.**
 Production is the quantity of output produced. Productivity is the ratio of output to the inputs used.
 
-**Define efficiency and effectiveness.**
+**39. Define efficiency and effectiveness.**
 Efficiency = actual output ÷ standard output, showing how well inputs are used. Effectiveness is the degree to which objectives are accomplished.
 
-**Define total-factor productivity.**
+**40. Define total-factor productivity.**
 Net output ÷ (labour + capital), where net output = total output minus purchased intermediate goods and services.
 
-**Why must monetary values be deflated?**
+**41. Why must monetary values be deflated?**
 To convert them to real values of a base year using the price index, so productivity can be compared across years.
 
-**State the service productivity formula.**
+**42. State the service productivity formula.**
 Revenue from the service ÷ cost of producing the service. Globally, total revenue ÷ total cost.
 
-**Why is service productivity only a partial measure?**
+**43. Why is service productivity only a partial measure?**
 Because it is seldom possible to define one unit of a service.
 
-**List the seven wastes in Lean.**
+**44. List the seven wastes in Lean.**
 Overproduction, waiting, transport, extra processing, inventory, motion, defects.
 
-**What is JIT?**
+**45. What is JIT?**
 Just-In-Time: receiving goods only as they are needed in production, reducing inventory cost.
 
-**What is work study?**
+**46. What is work study?**
 Method study (how tasks are done) combined with work measurement (time required), to optimise workflows.
 
 ### Quality and productivity tools
 
-**List any three of the Seven Basic Quality Tools.**
+**47. List any three of the Seven Basic Quality Tools.**
 Pareto chart, control chart, fishbone diagram. (Also check sheet, histogram, scatter diagram, flowchart.)
 
-**State the Pareto principle.**
+**48. State the Pareto principle.**
 Vilfredo Pareto's observation that about 80% of effects come from 20% of causes.
 
-**Name the six categories in a fishbone diagram.**
+**49. Name the six categories in a fishbone diagram.**
 Man, Machine, Method, Material, Measurement, Environment.
 
-**What are the components of a control chart?**
+**50. What are the components of a control chart?**
 A central line for the mean, plus upper and lower control limits.
 
-**Name two types of control chart.**
+**51. Name two types of control chart.**
 X̄ and R charts for variables data; P and NP charts for attribute data.
 
-**Expand 5S.**
+**52. Expand 5S.**
 Seiri (Sort), Seiton (Set in order), Seiso (Shine), Seiketsu (Standardise), Shitsuke (Sustain).
 
-**What is Value Stream Mapping?**
+**53. What is Value Stream Mapping?**
 Visualising the entire production process, including material and information flows plus lead and cycle time, to identify waste.
 
-**Name the three types of benchmarking.**
+**54. Name the three types of benchmarking.**
 Internal, competitive, functional.
 
-**What is Poka-Yoke? Give an example.**
+**55. What is Poka-Yoke? Give an example.**
 Error-proofing through fail-safe mechanisms. Example: a plug that fits only one way.
 
-**Expand SPC and name its capability indices.**
+**56. Expand SPC and name its capability indices.**
 Statistical Process Control. Cp and Cpk.
 
-**What is Kaizen?**
+**57. What is Kaizen?**
 Continuous improvement through small incremental changes, central to Japanese manufacturing at firms such as Toyota.
 
-**Name the two pillars of the Toyota Production System.**
+**58. Name the two pillars of the Toyota Production System.**
 Just-In-Time and Jidoka, automation with a human touch, meaning production stops when a defect is found.
 
-**Name any three barriers to implementing quality initiatives.**
+**59. Name any three barriers to implementing quality initiatives.**
 Resistance to change, lack of management commitment, inadequate training. (Also short-term focus.)
 
 ### CURA
 
-**Expand CURA.**
+**60. Expand CURA.**
 Complexity, Uncertainty, Risk, Ambiguity.
 
-**Name the three types of complexity.**
+**61. Name the three types of complexity.**
 Structural (many parts or stakeholders), dynamic (conditions evolve over time), socio-technical (human and machine interaction).
 
-**Distinguish aleatory and epistemic uncertainty.**
+**62. Distinguish aleatory and epistemic uncertainty.**
 Aleatory arises from inherent randomness, such as weather or material properties. Epistemic arises from lack of data or limited models.
 
-**State the risk formula.**
+**63. State the risk formula.**
 Risk = Probability of failure × Impact of failure.
 
-**How does risk differ from uncertainty?**
+**64. How does risk differ from uncertainty?**
 Risk has known probabilities. Uncertainty may not.
 
-**Name the four types of risk.**
+**65. Name the four types of risk.**
 Operational, safety, financial, legal or compliance.
 
-**Name the four steps of the risk management process.**
+**66. Name the four steps of the risk management process.**
 Risk identification, risk assessment, risk mitigation, risk monitoring.
 
-**State the five ISO 31000 steps.**
+**67. State the five ISO 31000 steps.**
 Identify, analyse, evaluate, treat, monitor and review.
 
-**Give two sources of ambiguity.**
+**68. Give two sources of ambiguity.**
 Poorly defined problem statements and conflicting stakeholder requirements.
 
-**What is scenario planning?**
+**69. What is scenario planning?**
 Developing multiple future scenarios (best case, worst case, expected) so teams can respond flexibly to uncertainty.
 
-**What is Monte Carlo simulation used for?**
+**70. What is Monte Carlo simulation used for?**
 Random sampling and statistical modelling to estimate the range of possible cost and time outcomes in large projects.
 
-**What went wrong with the Mars Climate Orbiter?**
+**71. What went wrong with the Mars Climate Orbiter?**
 Lockheed Martin used imperial units while NASA expected metric. The orbiter disintegrated, a $125 million loss.
 
-**One-line cause of the Fukushima disaster.**
+**72. One-line cause of the Fukushima disaster.**
 The plant was designed for an earthquake but not a tsunami of that scale, because data on extreme tsunami probability was insufficient.
 
-**What was the 737 MAX problem?**
+**73. What was the 737 MAX problem?**
 The MCAS software was not adequately documented or communicated to pilots, and new software was integrated into an older airframe.
 
 ---

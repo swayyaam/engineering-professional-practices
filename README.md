@@ -70,7 +70,7 @@ The faculty's own papers, transcribed. Each question links to the note that answ
 | [Module I — question bank](exams/module-1-question-bank.md) | 38 one-mark, 12 five-mark — 50 items with model answers | Engineering as a discipline and a profession, attributes and functions of a practicing engineer, the engineer as problem solver, designer and change agent |
 | [Module II — question bank](exams/module-2-question-bank.md) | 73 one-mark, 9 numericals, 22 five-mark — 104 items with model answers | Design for safety, design for reliability, quality management, productivity, quality and productivity tools, CURA |
 
-Answers are written out in full rather than linked, so each bank stands on its own for revision. Module I covers the whole of its module; Module II covers the confirmed portion only — project management, managerial functions and costing are in [`notes/`](notes/) but not yet in the bank.
+Answers are written out in full rather than linked, so each bank stands on its own for revision. Within a bank the one-mark questions are numbered `1`–`n`, the numericals `N1`–`N9` and the five-mark questions `Q1`–`Qn`, so any item can be cited unambiguously. Module I covers the whole of its module; Module II covers the confirmed portion only — project management, managerial functions and costing are in [`notes/`](notes/) but not yet in the bank.
 
 ---
 
