@@ -19,7 +19,7 @@ The notes are distilled from the lecture decks and the Module II lecture notes: 
 | Path | What it is |
 |---|---|
 | [`notes/`](notes/) | The notes, one folder per module — 12 files, ~2,100 lines |
-| [`exams/`](exams/) | The faculty's sample question papers, each question linked to the note that answers it |
+| [`exams/`](exams/) | The faculty's sample question papers, plus a worked question bank for Module II |
 | [`lesson-plan.md`](lesson-plan.md) | Full syllabus, course outcomes, books, assessment scheme and lecture-by-lecture plan, transcribed from the course handout |
 | [`README.md`](README.md) | This file |
 | [`.gitignore`](.gitignore) | Keeps the raw lecture decks and editor cruft out of the repository |
@@ -52,14 +52,24 @@ The notes are distilled from the lecture decks and the Module II lecture notes: 
 
 ---
 
-## Sample question papers
+## Exams
+
+### Sample question papers
+
+The faculty's own papers, transcribed. Each question links to the note that answers it; open-ended and reflective questions are marked `—` rather than given a false pointer.
 
 | Paper | Questions | Covers |
 |---|---|---|
 | [Module I — sample questions](exams/module-1-sample-questions.md) | 21 | Engineering vs. science and technology, interdisciplinary collaboration, attributes of a successful engineer, problem solving, the engineer as change agent |
 | [Module II — sample questions](exams/module-2-sample-questions.md) | 25 | Safety and reliability, quality and productivity, complexity/uncertainty/risk/ambiguity, project management, managerial functions, costing and accounting |
 
-Each question links to the note that answers it; open-ended and reflective questions are marked `—` rather than given a false pointer.
+### Question bank
+
+| Bank | Contents | Covers |
+|---|---|---|
+| [Module II — question bank](exams/module-2-question-bank.md) | 73 one-mark, 9 numericals, 22 five-mark — 104 items with model answers | Design for safety, design for reliability, quality management, productivity, quality and productivity tools, CURA |
+
+Answers are written out in full rather than linked, so the bank stands on its own for revision. It covers the confirmed portion of Module II only — project management, managerial functions and costing are in [`notes/`](notes/) but not yet in the bank.
 
 ---
 
