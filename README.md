@@ -19,7 +19,7 @@ The notes are distilled from the lecture decks and the Module II lecture notes: 
 | Path | What it is |
 |---|---|
 | [`notes/`](notes/) | The notes, one folder per module — 12 files, ~2,100 lines |
-| [`exams/`](exams/) | The faculty's sample question papers, plus a worked question bank for Module II |
+| [`exams/`](exams/) | The faculty's sample question papers, plus worked question banks for both modules |
 | [`lesson-plan.md`](lesson-plan.md) | Full syllabus, course outcomes, books, assessment scheme and lecture-by-lecture plan, transcribed from the course handout |
 | [`README.md`](README.md) | This file |
 | [`.gitignore`](.gitignore) | Keeps the raw lecture decks and editor cruft out of the repository |
@@ -63,13 +63,14 @@ The faculty's own papers, transcribed. Each question links to the note that answ
 | [Module I — sample questions](exams/module-1-sample-questions.md) | 21 | Engineering vs. science and technology, interdisciplinary collaboration, attributes of a successful engineer, problem solving, the engineer as change agent |
 | [Module II — sample questions](exams/module-2-sample-questions.md) | 25 | Safety and reliability, quality and productivity, complexity/uncertainty/risk/ambiguity, project management, managerial functions, costing and accounting |
 
-### Question bank
+### Question banks
 
 | Bank | Contents | Covers |
 |---|---|---|
+| [Module I — question bank](exams/module-1-question-bank.md) | 38 one-mark, 12 five-mark — 50 items with model answers | Engineering as a discipline and a profession, attributes and functions of a practicing engineer, the engineer as problem solver, designer and change agent |
 | [Module II — question bank](exams/module-2-question-bank.md) | 73 one-mark, 9 numericals, 22 five-mark — 104 items with model answers | Design for safety, design for reliability, quality management, productivity, quality and productivity tools, CURA |
 
-Answers are written out in full rather than linked, so the bank stands on its own for revision. It covers the confirmed portion of Module II only — project management, managerial functions and costing are in [`notes/`](notes/) but not yet in the bank.
+Answers are written out in full rather than linked, so each bank stands on its own for revision. Module I covers the whole of its module; Module II covers the confirmed portion only — project management, managerial functions and costing are in [`notes/`](notes/) but not yet in the bank.
 
 ---
 
